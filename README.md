@@ -1,5 +1,7 @@
 # Azure-AI-Hackathon
 
+android app download link:
+https://drive.google.com/file/d/1f6mOveraRVewiaEoQQlGyUJRXp1eMg2-/view?usp=sharing
 
 1) Download the APK file from the drive link provided and install the app. 2) use the Far interface to chat in a chat room. after selecting the Far, select whether you are a caretaker(Normal person) or BlindDeaf user and start to chat. 3) use Near when you are near and want to communicate with the blind-deaf person.
 
